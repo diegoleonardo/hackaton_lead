@@ -35,4 +35,5 @@ defmodule HackatonLeadWeb.UserSocket do
   #
   # Returning `nil` makes this socket anonymous.
   def id(_socket), do: nil
+  
 end
