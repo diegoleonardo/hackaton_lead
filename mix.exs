@@ -36,7 +36,8 @@ defmodule HackatonLead.Mixfile do
       {:phoenix_pubsub, "~> 1.0"},
       {:gettext, "~> 0.11"},
       {:bolt_sips, "~> 0.4.11"},
-      {:cowboy, "~> 1.0"}
+      {:cowboy, "~> 1.0"},
+      {:distillery, "~> 1.0.0"}
     ]
   end
 end
